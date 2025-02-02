@@ -1,0 +1,41 @@
+# macOS System Files
+**/.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnail cache files
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Volume-related artifacts
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Temporary items
+.TemporaryItems
+.Trashes
+
+# Network share directories
+.Network Trash Folder
+.Temporary Items
+
+# iCloud files
+*.icloud
+
+# Xattr files (resource forks)
+__MACOSX/
+
+# Crash logs
+crash.log
+*.log
+
+# Package metadata
+.PkgInfo
+
+# Auto-save files
+*.swp
+*~
+*.swo
