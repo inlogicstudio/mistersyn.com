@@ -12,13 +12,29 @@ main {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 0px 0;
+    padding: 30px 0 0;
+    width: 100%;
+}
+
+#home {
+    max-width: 100%;
+    height: auto;
+}
+
+#home img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 90vh;
+    margin: 0 auto;
+    object-fit: contain;
 }
 
 footer {
     text-align: center;
     color: white;
     padding: 0;
-    background: #373737; /* Optional background color */
+    background: #373737;
     width: 100%;
 }
